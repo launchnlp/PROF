@@ -1,0 +1,32 @@
+CUDA_VISIBLE_DEVICES=0 python src/train.py \
+    --stage sft \
+    --do_train yes\
+    --model_name_or_path /home/inair/data/llama3_models/meta-llama/Meta-Llama-3-8B-Instruct \
+    --dataset mwrite_student_applicator_combine \
+    --dataset_dir data \
+    --template llama3 \
+    --finetuning_type lora \
+    --lora_target q_proj,v_proj \
+    --output_dir /home/inair/data/revision_saves/sft_mwrite_student_applicator_combine_8b_instruct \
+    --overwrite_cache yes\
+    --overwrite_output_dir yes \
+    --cutoff_len 4096 \
+    --preprocessing_num_workers 16 \
+    --per_device_train_batch_size 1 \
+    --per_device_eval_batch_size 1 \
+    --gradient_accumulation_steps 8 \
+    --lr_scheduler_type cosine \
+    --logging_steps 10 \
+    --warmup_steps 20 \
+    --save_steps 200 \
+    --eval_steps 200 \
+    --evaluation_strategy steps \
+    --load_best_model_at_end yes\
+    --learning_rate 1e-4 \
+    --num_train_epochs 20 \
+    --max_samples 3000 \
+    --val_size 0.1 \
+    --plot_loss yes\
+    --fp16 yes
+
+

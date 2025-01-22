@@ -1,0 +1,30 @@
+CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
+    --stage ppo \
+    --do_train \
+    --model_name_or_path /home/inair/data/llama-2-7b-hf \
+    --adapter_name_or_path /home/inair/data/revision_saves/sft_essay_writing_350_gpt_35_turbo \
+    --create_new_adapter \
+    --dataset sft_essay_writing_350_gpt_35_turbo \
+    --dataset_dir data \
+    --template default \
+    --finetuning_type lora \
+    --lora_target q_proj,v_proj \
+    --reward_model /home/inair/data/revision_saves/rm_essay_writing_350_gpt_35_turbo_simple \
+    --output_dir /home/inair/data/revision_saves/ppo_essay_writing_350_gpt_35_turbo \
+    --overwrite_cache \
+    --overwrite_output_dir \
+    --cutoff_len 2048 \
+    --preprocessing_num_workers 16 \
+    --per_device_train_batch_size 1 \
+    --gradient_accumulation_steps 8 \
+    --lr_scheduler_type cosine \
+    --logging_steps 10 \
+    --save_steps 100 \
+    --learning_rate 1e-5 \
+    --num_train_epochs 10 \
+    --max_samples 1000 \
+    --top_k 0 \
+    --top_p 0.9 \
+    --max_new_tokens 1024 \
+    --plot_loss \
+    --fp16

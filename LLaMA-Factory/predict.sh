@@ -1,0 +1,22 @@
+CUDA_VISIBLE_DEVICES=0 python src/train.py \
+    --stage sft \
+    --do_predict yes \
+    --model_name_or_path /home/inair/data/llama3_models/llama-3-8b-instruct-hf \
+    --adapter_name_or_path  /home/inair/data/revision_saves/sft_mwrite_feedback_generation_8b_instruct\
+    --dataset mwrite_feedback_generation_test \
+    --dataset_dir data \
+    --template llama3 \
+    --finetuning_type lora \
+    --output_dir feedback_generation_test \
+    --overwrite_cache yes \
+    --overwrite_output_dir yes \
+    --cutoff_len 4096 \
+    --preprocessing_num_workers 16 \
+    --per_device_eval_batch_size 2 \
+    --max_new_tokens 900 \
+    --temperature 1.0 \
+    --do_sample \
+    --top_k 50 \
+    --top_p 0.95 \
+    --max_samples 1000 \
+    --predict_with_generate yes
