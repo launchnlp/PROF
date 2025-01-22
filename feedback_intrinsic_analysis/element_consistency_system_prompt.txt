@@ -1,0 +1,183 @@
+The objective of this task is to analyze feedback segments provided for an essay and determine whether each segment is logically consistent with the content of the essay. Finally you will augment each element of the original list of feedback segments with a new label called 'consistency' that indicates whether the feedback segment is consistent ('consistent') or not ('not consistent') with the content of the essay.
+[EXAMPLE_SEP]
+Essay: Dear San Francisco Board of Supervisors, 
+Given the government has decided to impose a new increase in minimum wage, prioritizing the well-being of the people is important. Despite the rapid increase of the latest automation and the quickest, easiest methods in San Francisco's industrial landscape, we must save our workforce from the price floor the government has placed on the labor market. To advocate for the common worker, we must implement measures to counter the swift rise of automation in this era of industrialization. 
+Therefore, I strongly oppose just taxing automation, or Ms. Kim’s proposal. When the minimum wage surpasses the equilibrium rate in the labor market, it triggers various economic repercussions. Companies will pay for automation because it’s more efficient, even if there’s a tax. Employees may seek alternative solutions beyond human labor to fulfill job roles, given that machines are generally faster, cheaper, and more efficient than humans. 
+You might wonder why I think we shouldn’t embrace this new industrial automation, given machines' superior speed and precision compared to humans. The answer is simple: machines lack the human capability for critical thinking and problem-solving, attributes that are indispensable in the workforce. If we only put a tax on automation, automation will still replace the labor force. Apart from ethical considerations, human labor often proves more cost-effective and sustainable due to its adaptability. It's crucial to recognize that widespread automation could not only lower general income and exacerbate income inequality in San Francisco but also diminish the willingness to pay for goods and services over time, thus yielding negative 
+
+2 repercussions. The negatives go on— in a society where the tax was imposed automation would still take over as the benefits of a decreased wage of labor would levy companies to take the tax on top of it. 
+Instead, policymakers may consider alternative measures such as investing in education and programs aimed at benefiting workers before exploiting the industry. Providing incentives for businesses to invest in automation responsibly, or implementing policies that ensure the benefits of automation are shared more equitably among workers and society as a whole. The economy and the common man are hurt in the process of the shift towards automation and without letting policy makers like yourselves know the long term benefits of only imposing a tax our nation stands shadowed under the wrath of cheap labor. 
+In conclusion, banning automation across the entire industry stands as the most beneficial intervention in this scenario. While acknowledging that automation may indeed replace certain jobs, imposing a tax and accounting for its long-term adverse effects positions us to advocate for the people's interests in the long run, while also aiding companies in adapting to changing economic landscapes. 
+From, a concerned citizen 
+
+Feedback: [
+    {
+        "segment": "The author does not mention the concept of elasticity of demand and supply, which is crucial in understanding the impact of minimum wage increase on the labor market and automation market.",
+        "category": "problem",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "Additionally, the author does not mention the concept of deadweight loss, which is important in understanding the inefficiencies caused by the minimum wage increase and the proposed policies.",
+        "category": "problem",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "The author can connect concepts in a more useful manner by providing a clear explanation of how the minimum wage increase affects the labor market and automation market, and how these changes impact the market for goods and services produced using labor and automation.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "For example, the author can explain how the minimum wage increase leads to a decrease in the demand for labor and an increase in the demand for automation, which in turn affects the supply and demand of goods and services.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "The author can improve their analysis of the minimum wage increase and the automation policy by considering the long-term effects of these policies on the economy.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "For example, the author can explain how the minimum wage increase may lead to higher prices and reduced employment in the long run, and how the automation policy may lead to increased productivity and innovation in the long run.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "The author applies economic principles to justify their position by explaining how the minimum wage increase affects the labor market and automation market, and how these changes impact the market for goods and services.",
+        "category": "praise",
+        "affective": "compliment",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "However, the author can improve their argument by considering the concept of opportunity cost, which is important in understanding the trade-offs between different policies and their impact on the economy.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "The author does not cite any outside sources.",
+        "category": "problem",
+        "affective": "neutral",
+        "localization": "localized",
+        "scope": "global"
+    },
+    {
+        "segment": "The letter is generally understandable to a person with a basic understanding of economic principles.",
+        "category": "praise",
+        "affective": "compliment",
+        "localization": "non-localized",
+        "scope": "global"
+    },
+    {
+        "segment": "However, the author can improve their explanation of the impact of minimum wage increase on the labor market and automation market by providing more concrete examples and data.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global"
+    }
+]
+[INTRA_EXAMPLE_SEP]
+[
+    {
+        "segment": "The author does not mention the concept of elasticity of demand and supply, which is crucial in understanding the impact of minimum wage increase on the labor market and automation market.",
+        "category": "problem",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    },
+    {
+        "segment": "Additionally, the author does not mention the concept of deadweight loss, which is important in understanding the inefficiencies caused by the minimum wage increase and the proposed policies.",
+        "category": "problem",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    },
+    {
+        "segment": "The author can connect concepts in a more useful manner by providing a clear explanation of how the minimum wage increase affects the labor market and automation market, and how these changes impact the market for goods and services produced using labor and automation.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+        },
+    {
+        "segment": "For example, the author can explain how the minimum wage increase leads to a decrease in the demand for labor and an increase in the demand for automation, which in turn affects the supply and demand of goods and services.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    },
+    {
+        "segment": "The author can improve their analysis of the minimum wage increase and the automation policy by considering the long-term effects of these policies on the economy.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    },
+    {
+        "segment": "For example, the author can explain how the minimum wage increase may lead to higher prices and reduced employment in the long run, and how the automation policy may lead to increased productivity and innovation in the long run.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    },
+    {
+        "segment": "The author applies economic principles to justify their position by explaining how the minimum wage increase affects the labor market and automation market, and how these changes impact the market for goods and services.",
+        "category": "praise",
+        "affective": "compliment",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+        },
+    {
+        "segment": "However, the author can improve their argument by considering the concept of opportunity cost, which is important in understanding the trade-offs between different policies and their impact on the economy.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    },
+    {
+        "segment": "The author does not cite any outside sources.",
+        "category": "problem",
+        "affective": "neutral",
+        "localization": "localized",
+        "scope": "global",
+        "consistency": "consistent"
+        },
+    {
+        "segment": "The letter is generally understandable to a person with a basic understanding of economic principles.",
+        "category": "praise",
+        "affective": "compliment",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+        },
+    {
+        "segment": "However, the author can improve their explanation of the impact of minimum wage increase on the labor market and automation market by providing more concrete examples and data.",
+        "category": "solution",
+        "affective": "neutral",
+        "localization": "non-localized",
+        "scope": "global",
+        "consistency": "consistent"
+    }
+]
+

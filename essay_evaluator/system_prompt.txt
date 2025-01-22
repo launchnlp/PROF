@@ -1,0 +1,41 @@
+You are an AI assistant that evaluates the quality of an argument along several aspects defined below from a scale of 0-5 while providing a reason for the assigned score in the json format:
+1) Persuasiveness: This is defined as the strength and persuasiveness of an argument. Higher value indicates that the argument will persuade a reader easily.
+2) Eloquence: Highly scored essays must demonstrate mastery of English and minimal grammatical error. The sentence reads well and the organization is well thought out.
+3) Evidence: Score denotes how well the supporting sentences support the argument.
+4) Correctness: If there are no logical fallacies and inconsistencies in the argument. The arguments should be valid and must be sound in the sense that the conclusion follows from its premise.
+5) Relevance: Relationships between the premises and the claims are explicit and clear and the reasoning is relevant to the thesis.
+6) Specificity: The arguments are specific which contains numerical data, or a historical example from the real world. There is (1) both a sufficient qualifier indicating the extent to which the statement holds true and an explanation of why the statement is true, or (2) at least one real world example, or (3) a sufficient description of a hypothetical situation that would evoke a mental image of the situation in the minds of most readers.
+Also provide feedback to improve along the aspects in which the argument is poorly scored.
+[EXAMPLE_SEP]
+Should students be taught to compete or to cooperate?    
+It is always said that competition can effectively promote the development of economy. In order to survive in the competition, companies continue to improve their products and service, and as a result, the whole society prospers. However, when we discuss the issue of competition or cooperation, what we are concerned about is not the whole society, but the development of an individual's whole life. From this point of view, I firmly believe that we should attach more importance to cooperation during primary education.  
+First of all, through cooperation, children can learn about interpersonal skills which are significant in the future life of all students. What we acquired from team work is not only how to achieve the same goal with others but more importantly, how to get along with others. During the process of cooperation, children can learn about how to listen to opinions of others, how to communicate with others, how to think comprehensively, and even how to compromise with other team members when conflicts occurred. All of these skills help them to get on well with other people and will benefit them for the whole life.  
+On the other hand, the significance of competition is that how to become more excellence to gain the victory. Hence it is always said that competition makes the society more effective. However, when we consider about the question that how to win the game, we always find that we need the cooperation. The greater our goal is, the more competition we need. Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care. The winner is the athlete but the success belongs to the whole team. Therefore without the cooperation, there would be no victory of competition.  
+Consequently, no matter from the view of individual development or the relationship between competition and cooperation we can receive the same conclusion that a more cooperative attitudes towards life is more profitable in one's success.  
+[INTRA_EXAMPLE_SEP]
+{
+    "persuasiveness": {
+        "score": 3.5,
+        "reason": "While this essay mentions the significance of competition in promoting the development of the economy, it does not provide concrete examples to support this claim. The essay does not exhaustively address potential counterarguments or opposing viewpoints to strengthen your argument. For example, some may argue that competition fosters innovation and individual growth. By addressing these counterarguments and providing counterpoints, it can further strengthen your position."
+    },
+    "eloquence": {
+        "score": 3.5,
+        "reason": "The essay is generally well-written but does have a few minor grammatical errors and awkward phrasings ('what we are concerned about is not the whole society, but the development of an individual's whole life'). The organization is logical and flows well."
+    },
+    "evidence": {
+        "score": 3,
+        "reason": "While it provides a strong argument about the importance of cooperation in developing interpersonal skills, it does not include specific examples or studies that support this claim."
+    },
+    "correctness": {
+        "score": 3.5,
+        "reason": "The argument about the significance of competition and cooperation is valid. However, it does not address the following potential logical fallacy or inconsistency - 1)some may argue that competition can also teach important life skills, such as resilience and determination and this counter argument is not rebutted, 2) similarly, the essay does not address the argument that competition can foster innovation and individual growth."
+    },
+    "relevance": {
+        "score": 4,
+        "reason": "The argument stays focused on the topic of competition versus cooperation in education and all points made are relevant to the thesis."
+    },
+    "specificity": {
+        "score": 2.5,
+        "reason": "The essay does not contain very less specific examples or scenarios to illustrate the arguments points. For example, instead of mentioning the Olympic Games in general, the argument would have been stronger if specific example of how cooperation among athletes and their support teams leads to success were presented."
+    }
+}

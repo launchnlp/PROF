@@ -1,0 +1,187 @@
+You are an AI assistant that evaluates the quality of an argument along several aspects defined below from a scale of 0-2 while providing a reason for the assigned score in the json format:
+
+# Thesis statement: 
+To assess the metric of clarity and elaboration in an author's standpoint (generally present in the introduction) on a given issue or prompt, including the presence of qualifiers, you can use a point scale from 0 to 2. This scale will evaluate the extent to which the author’s stance is clear, elaborated upon, and qualified. Here's a concrete breakdown of how to assign points within this scale:
+## Point Scale Description:
+- 0 points: The author's standpoint is unclear or missing; there is no elaboration or qualifier present.
+- 1 point: The author's standpoint is clear but lacks significant elaboration, or it may be somewhat elaborated but not clearly stated; a qualifier might be missing or vague.
+- 2 points: The author presents a clear standpoint with significant elaboration and includes a qualifier that effectively indicates the extent to which the standpoint is true.
+## Example for Assigning Points
+- Example for 0 Points - "Many things can be done to improve the situations."
+- Example for 1 Point - "I have nothing against eating insects and have always liked the idea of having tried mealworms crickets and scorpions."
+- Example for 1 Point - "Reducing emissions can help combat climate change."
+- Example for 2 Points - "Significantly reducing carbon emissions, particularly from industrial sources, is essential for mitigating climate change, although the effectiveness of these reductions can vary based on global cooperation."
+
+# Claims in favor of author's standpoint:
+This measure how many distinct argumentative claims are presented by the author to justify or support the thesis statement. This is generally found in the body paragraphs. You have to associate a point to the essay from the scale of 0-2 based on the following criteria:
+## Point Scale Description:
+- 0 points: No distinct argumentative claims are presented, or the claims are unclear and not aligned with the thesis statement.
+- 1 point: One clear, distinct argumentative claim is presented that supports the thesis statement.
+- 2 points: Two or more distinct, clear argumentative claims are presented that effectively support the thesis statement.
+## Example for Assigning Points
+- Example for 0 points - "Renewable energy sources are crucial for sustainable development... There are many problems in the world..." (Analysis: This statement is overly broad and does not present a clear, distinct argumentative claim that supports a specific thesis statement. It lacks specificity and alignment with any particular argumentative thesis "Renewable energy sources are crucial for sustainable development".)
+- Example for 1 point - "Renewable energy sources are crucial for sustainable development...Implementing renewable energy sources like solar and wind is beneficial for reducing dependence on fossil fuels..." (Analysis: It presents a single clear claim that directly supports the thesis "Renewable energy sources are crucial for sustainable development". However, this is just one argumentative claim and does not showcase multiple perspectives or additional supporting claims.)
+- Example for 2 points - "Renewable energy sources are crucial for sustainable development...Implementing renewable energy sources like solar and wind not only reduces dependence on fossil fuels but also significantly lowers greenhouse gas emissions, contributing to a decrease in global warming...Renewable energy technologies create new jobs in the green economy, further supporting economic growth..." (Analysis: The excerpt presents two distinct argumentative claims that support the thesis "Renewable energy sources are crucial for sustainable development": one about the environmental benefits of renewable energy and another regarding its economic benefits. Each claim is clear and provides robust support for the thesis statement, demonstrating a well-rounded argumentative approach.)
+
+# Evidence and Reasoning for supporting claims:
+To effectively assess the quality of evidence and reasoning in an essay, a clear and concrete scoring system on a scale of 0 to 2 can be implemented. This scale will measure how well each supporting claim in the essay is substantiated through both reasoning and evidence. The final score will be average of the scores assigned to each supporting claim. Here's how the points can be distributed based on the specific criteria outlined:
+## Point Scale Description:
+- 0 points: The claim lacks both relevant evidence and coherent reasoning. The evidence is either incorrect, irrelevant, or absent, and the reasoning is flawed or does not logically support the claim.
+- 1 point:  The claim is supported by either reasonably relevant evidence or coherent reasoning, but not both effectively. The evidence may be somewhat relevant but not detailed, or the reasoning may make sense but lacks depth or full alignment with the evidence.
+- 2 points: The claim is strongly supported by both relevant and specific evidence and logically coherent reasoning. The evidence is accurate and well-cited, and the reasoning thoroughly and persuasively justifies the claim, including appropriate backing and warrants.
+## Example for Assigning Points
+- Example for 0 Points - Claim: "Social media is detrimental to mental health."
+Evidence and Reasoning Presented: Only anecdotal evidence such as "I think social media is bad because my friend feels sad after using it," without any statistical data, studies, or logical analysis.
+(Analysis: This example lacks specific, credible evidence and does not provide a logical explanation of how or why social media affects mental health negatively. The reasoning is entirely anecdotal and does not substantiate the claim.)
+- Example for 1 Point - Claim: "Renewable energy is crucial for sustainable development."
+Evidence and Reasoning Presented: General statements like "Many countries are investing in renewable energy to prevent climate change," with a basic explanation that renewable energy sources are better for the environment but without detailed evidence or deep reasoning.
+(Analysis: The claim is supported by a relevant, albeit general, piece of evidence. The reasoning connects renewable energy to environmental benefits but lacks depth and specific examples or statistical backing that fully align with the complexity of sustainable development.)
+- Example for 2 Points - Claim: "Regular exercise significantly reduces the risk of chronic diseases."
+Evidence and Reasoning Presented: Detailed evidence from credible sources, e.g., "According to a 2020 study by the CDC, engaging in 150 minutes of moderate exercise per week reduces the risk of heart disease by 35%." The reasoning explains how physical activity improves heart function and blood circulation, effectively reducing disease risk.
+(Analysis: This response includes highly relevant and specific evidence that is directly linked to the claim through logical, coherent reasoning. The reasoning is enhanced by credible data, making a compelling argument that justifies the claim.)
+
+# Claims attacking author's standpoint:
+This measure how many distinct argumentative claims are presented by the author to attack the thesis statement. This is generally found in the body paragraphs. You have to associate a point to the essay from the scale of 0-2 based on the following.
+## Point Scale Description:
+- 0 points: The essay lacks any distinct argumentative claims that attack the thesis statement, or such claims are too vague or misaligned with the central thesis to be considered clear.
+- 1 point: There is one clear and distinct argumentative claim presented that effectively attacks the thesis statement.
+- 2 points: The essay contains two or more distinct, clear argumentative claims that competently attack the thesis statement.
+## Example for Assigning Points
+- Example for 0 points - "Online education is more effective than traditional classroom learning... Some people do not like online education..." (Analysis: These claims do not directly attack the thesis about the effectiveness of online education compared to traditional methods. They are either too vague or merely express a general dislike, without providing a clear, argumentative stance that challenges the thesis "Online education is more effective than traditional classroom learning".)
+- Example for 1 point - "Government surveillance is necessary for national security...Government surveillance can lead to a significant invasion of privacy and is often used beyond the scope of national security" (Analysis: This is a clear and distinct claim that directly attacks the thesis by presenting a significant downside of government surveillance. It challenges the notion that such surveillance is justifiable by focusing on privacy concerns, thus effectively opposing the thesis "Government surveillance is necessary for national security" with a focused argument.)
+- Example for 2 points - "Animal testing is essential for scientific and medical advancement...Alternative testing methods like computer modeling and cell cultures are proving to be as effective as animal testing, reducing the need for animal suffering...Animal testing often produces unreliable or inapplicable results to humans, casting doubts on its necessity and effectiveness."
+(Analysis: These two claims are both distinct and direct attacks on the thesis. The first claim challenges the necessity of animal testing by pointing out viable alternatives, while the second undermines the effectiveness of animal testing by questioning its reliability and applicability. Each claim is clearly articulated and presents a strong argument against the central thesis "Animal testing is essential for scientific and medical advancement".)
+
+# Rebuttal for attacking claim:
+To effectively assess the quality of rebuttals provided against claims that attack the author's standpoint in an essay, a clear scoring system from 0 to 2 points can be established. This scoring system evaluates the effectiveness, clarity, depth, and relevance of the counterarguments made by the author in response to attacks. The final score will be average of the scores assigned to each rebuttal.
+## Point Scale Description:
+- 0 points: No rebuttal is presented, or the rebuttal is irrelevant and does not address the attacking claims clearly and effectively.
+- 1 point: A rebuttal is presented that addresses the attacking claim; however, it lacks depth or clarity. It may address the claim but fails to fully engage with or convincingly refute the attacking points.
+- 2 points: The rebuttal is clear, detailed, and effectively addresses and refutes all major points raised in the attacking claims. It demonstrates a thorough understanding and effective counter-argumentation that enhances the author’s original thesis.
+## Example for Assigning Points
+- Example for 0 Points - Attacking Claim: "Online education fails to provide adequate interaction between students and teachers."
+Rebuttal Presented: "Many students use the internet every day."
+(Analysis: The rebuttal is irrelevant and does not address the core issue raised by the attacking claim, which is the quality of interaction in online education. The response does not refute or engage with the initial claim.)
+- Example for 1 Point - Attacking Claim: "Government surveillance violates individual privacy rights."
+Rebuttal Presented: "Government surveillance is meant to protect national security."
+(Analysis: While the rebuttal does address the attacking claim by pointing out the purpose of surveillance, it lacks depth and does not convincingly refute the privacy concerns. It fails to discuss how privacy can be protected or how surveillance is regulated, thus not fully engaging with the claim's implications.)
+- Example for 2 Points - Attacking Claim: "Animal testing is cruel and provides unreliable results."
+Rebuttal Presented: "Regulated animal testing is a critical step in medical research that saves countless lives. The methods used are strictly monitored to ensure minimal suffering. Moreover, the biological similarities between humans and certain animal species make certain types of animal testing the most reliable method of studying human-related diseases before clinical human trials."
+(Analysis: This rebuttal effectively addresses the claim by acknowledging the ethical concerns and outlining the regulations that minimize suffering. It also counters the claim about reliability by explaining why animal testing remains a crucial and reliable scientific method. The rebuttal is clear, engages directly with the concerns raised, and provides substantive evidence and reasoning to support the author's stance.)
+
+# Quality of Conclusion:
+To evaluate the effectiveness of the conclusion in an essay, a scoring system ranging from 0 to 2 points can be utilized. This system will assess how well the conclusion is articulated, elaborated, and how it aligns with the overall stance and arguments presented by the author throughout the essay.
+## Point Scale Description:
+- 0 points: The conclusion is either missing, vague, or does not align with the main arguments and stance of the author. It fails to summarize or reinforce the thesis effectively.
+- 1 point: The conclusion is present and attempts to summarize the essay's main points, but it lacks depth or does not fully reinforce the author’s stance. It may be somewhat coherent with the overall argument but falls short in fully elaborating or providing a strong final perspective.
+- 2 points: The conclusion is clear, well-articulated, and effectively summarizes and reinforces the main arguments and thesis of the essay. It shows a strong coherence with the overall stance of the author and enhances the impact of the essay with a well-elaborated closure.
+## Example for assigning points:
+- Example for 0 Points: Essay Thesis: "Renewable energy is essential for sustainable development."
+Conclusion Presented: "In conclusion, there are many challenges in the world today that require our attention."
+(Analysis: The conclusion does not directly address or reinforce the thesis about renewable energy; instead, it vaguely mentions global challenges without connecting back to the essay’s main focus. This conclusion is neither coherent with the author’s stance nor does it effectively summarize the essay’s arguments.)
+- Example for 1 Point: Essay Thesis: "Public libraries are vital for community development."
+Conclusion Presented: "In conclusion, public libraries offer many resources that can be useful to communities."
+(Analysis: While the conclusion mentions the usefulness of libraries, which aligns with the thesis, it lacks depth and does not elaborate on how these resources aid in community development. It summarizes the topic but misses the opportunity to reinforce the thesis strongly and persuasively.)
+- Example for 2 Points: Essay Thesis: "School uniforms should be mandatory to promote equality."
+Conclusion Presented: "In conclusion, making school uniforms mandatory can bridge economic differences among students, thereby fostering a sense of equality and reducing distractions. This measure supports academic focus and enhances a cohesive educational environment, directly aligning with our goals for educational equity."
+(Analysis: This conclusion effectively reinforces the thesis by summarizing the key benefits discussed throughout the essay. It not only aligns with the author's stance but also elaborates on the broader implications of the thesis, providing a strong and coherent closure to the argument.)
+[EXAMPLE_SEP]
+Should students be taught to compete or to cooperate?    
+It is always said that competition can effectively promote the development of economy. In order to survive in the competition, companies continue to improve their products and service, and as a result, the whole society prospers. However, when we discuss the issue of competition or cooperation, what we are concerned about is not the whole society, but the development of an individual's whole life. From this point of view, I firmly believe that we should attach more importance to cooperation during primary education.  
+First of all, through cooperation, children can learn about interpersonal skills which are significant in the future life of all students. What we acquired from team work is not only how to achieve the same goal with others but more importantly, how to get along with others. During the process of cooperation, children can learn about how to listen to opinions of others, how to communicate with others, how to think comprehensively, and even how to compromise with other team members when conflicts occurred. All of these skills help them to get on well with other people and will benefit them for the whole life.  
+On the other hand, the significance of competition is that how to become more excellence to gain the victory. Hence it is always said that competition makes the society more effective. However, when we consider about the question that how to win the game, we always find that we need the cooperation. The greater our goal is, the more competition we need. Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care. The winner is the athlete but the success belongs to the whole team. Therefore without the cooperation, there would be no victory of competition.  
+Consequently, no matter from the view of individual development or the relationship between competition and cooperation we can receive the same conclusion that a more cooperative attitudes towards life is more profitable in one's success.
+[INTRA_EXAMPLE_SEP]
+{
+    "Thesis statement": {
+        "Reason": "The author's standpoint is clear, elaborated, and qualified. The author believes that cooperation should be given more importance during primary education, and they elaborate on this by discussing the individual's development and the relationship between competition and cooperation.",
+        "score": 2
+    },
+    "Claims in favor of author's standpoint": {
+        "Reason": "The author presents two clear and distinct argumentative claims in support of the thesis. The first claim discusses how cooperation can help children learn interpersonal skills. The second claim elaborates on how cooperation plays a significant role in competitions, using the example of Olympic games.",
+        "score": 2
+    },
+    "Evidence and Reasoning for supporting claims": {
+        "Reason": "The claims are supported by reasonably relevant evidence and reasoning. The author uses real-life situations like teamwork and Olympic games as evidence. While the first claim is well-supported by providing a detailed reasoning about how cooperation helps in interpersonal skills, communication and conflict-resolution, the second claim reasons why cooperation is required in competitive settings by providing a specific and relevant example from the Olympic games.",
+        "score": 2
+    },
+    "Claims attacking author's standpoint": {
+        "Reason": "The essay acknowledges a distinct claim that challenges the thesis by emphasizing the value of competition in promoting excellence and societal effectiveness. This is a clear counterpoint to the cooperation-focused argument. As the essay does not present multiple attacking claims, the score is 1.",
+        "score": 1
+    },
+    "Rebuttal for attacking claim": {
+        "Reason": "Considering the claim about cooperation as both a supporting claim and a rebuttal, its associated argument effectively addresses the competition claim. It argues that while competition drives excellence, cooperation is foundational even in competitive settings, thus providing a strong rebuttal to the counterargument.",
+        "score": 2
+    },
+    "Quality of Conclusion": {
+        "Reason": "The conclusion is clear, well-articulated, and effectively summarizes and reinforces the main arguments and thesis of the essay. It shows a strong coherence with the overall stance of the author and enhances the impact of the essay with a well-elaborated closure.",
+        "score": 2
+    }
+}
+[EXAMPLE_SEP]
+Physical exercise
+Although some people think that the major part of school schedule should be entirely devoted to academics, I truly believe that the physical education part should not be outweighed. Physical exercises help to create healthy nation, assist to learning through direct observation and finally aid to financial development of a country.
+First of all, the ancient Latin proverb says: "Anima sana in corpore sano", which means that healthy body is basis for healthy soul. There is a direct linkage between people's health and the frequency of doing physical exercises. The more we practice, the better we feel. Additionally, there is a fact that one can improve health conditions with everyday physical activity: gradually, step by step we change physical condition to better. So, if the entire nation, from their school ages begin going for sports and try doing that everyday, eventually it may help to build healthy nation.
+Besides, when we practice outdoors and indoors sports, many aspects are getting clearer. For example, when a person goes jogging everyday, eventually he can understand his own body through direct observation. Alike, the school basketball team gains more knowledge on how to succeed in some particular kind of throwing the ball into hoot practicing rather than learning theoretically. Furthermore, almost all natural science discoveries were made by direct observation, which is a part of physical education. 
+Last, but not least, financial sustainability of a region mostly depends on how healthy the population is. For instance, the money invested into physical education program can save allocations into healthcare, since the nation is comparatively healthy. Along with that, physically healthy people can contribute more both into economical and social development. As a matter of fact, the better a person feels, the better his brain works. Therefore, putting physical activities in early steps of human development would finally lead to mentally healthy society. As hence it ends up with financially competitive country.
+In the conclusion, I would like to say that the more attention is withdrawn to a problem of physical education, the more influence we can get on academic success of students."
+[INTRA_EXAMPLE_SEP]
+{
+    "Thesis statement": {
+        "Reason": "The thesis statement is clearly presented with significant elaboration. The author states that physical education should not be outweighed in school schedules because it contributes to a healthy nation, aids learning, and supports financial development. The standpoint is elaborated with a qualifier that explains the broader impacts beyond immediate health benefits.",
+        "score": 2
+    },
+    "Claims in favor of author's standpoint": {
+        "Reason": "The essay presents three clear, distinct claims supporting the thesis: 1) Physical exercises create a healthy nation, 2) Physical activities assist learning through direct observation, and 3) Physical fitness contributes to the financial development of a country. Each claim is well-aligned with the thesis and provides robust support. While the second claim was not clearly presented, the presence of three distinct claims with two being clearly articulated warrants a score of 2.",
+        "score": 2
+    },
+    "Evidence and Reasoning for supporting claims": {
+        "Reason": "While the claims are supported with general reasoning about health, learning, and financial benefits, the essay lacks specific, credible evidence. For example, the connection between physical activity and national financial sustainability is claimed but not substantiated with concrete data or studies. For instance, a lot of statements supporting first claim is not backed up by any evidence. The reasoning is somewhat coherent but lacks depth and specificity. Similarly,it is not clear how direct observation in physical activities directly aids learning. The lack of specific evidence and deep and specific reasoning is observed for other claims as well. Thus, we assign a score of 1 to each of the claims resulting in an average score of 1.",
+        "score": 1
+    },
+    "Claims attacking author's standpoint": {
+        "Reason": "The essay does not present any distinct argumentative claims that attack the thesis statement. It solely focuses on supporting the importance of physical education.",
+        "score": 0
+    },
+    "Rebuttal for attacking claim": {
+        "Reason": "Since there are no attacking claims presented in the essay, no rebuttals are provided. The essay maintains a consistent advocacy for the importance of physical education without addressing potential counterarguments.",
+        "score": 0
+    },
+    "Quality of Conclusion": {
+        "Reason": "While the conclusion is clear, well-articulated and exhibits strong coherence wiht the overall stance of the author, it does not effectively summarize and reinforce the main arguments and thesis of the essay. Thus, the score is 1.",
+        "score": 1
+    }
+}
+[EXAMPLE_SEP]
+Technology inspires children's creativity instead of weakening it
+Technology accelerates human's evolving pace. With advanced technology, many things that seemed impossible in the past, have become realities. For example, people in the past never dreamed of talking to anyone whenever they wanted or see someone overseas on a computer screen, both of these can be achieved with cellphone and internet. However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.
+First, technology inspires children to create new things. Children are curious about everything around them, so when they come across a high-tech product like a cellphone, they will be obsessed with its mysterious functions and eager to know how it works. For example, Bill Gates was attracted by the original huge computer, then he did everything he could to understand how it worked. After he had figured out all the stuff, he then began to promote the computer. In the end, he successfully invented a computer that was easy to use and lightweight. Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.
+Second, technology widen children's knowledge. In the past, children were only able to see things from one perspective. However, with highly advanced technology, children are able to get information from foreign countries and even communicate with foreign friends. Therefore, they will be able to learn about different cultures and different ways of thinking. Knowledge is the base of creativity. The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.
+Admittedly, technology may have negative effects on children. Technology has made life too easy for most children. In comfortable conditions, children may be satisfied with the world around them and refuse to make a change. Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products. They kept researching new technology and became successful at a very young age.
+[INTRA_EXAMPLE_SEP]
+{
+    "Thesis statement": {
+        "Reason": "The thesis remains clearly stated and well-elaborated, arguing that technology enhances children's creativity despite some potential downsides. The author effectively qualifies this claim by acknowledging opposing views, which adds depth to the thesis statement.",
+        "score": 2
+    },
+    "Claims in favor of author's standpoint": {
+        "Reason": "The essay presents two distinct and clear argumentative claims in support of the thesis: 1) Technology inspires children to create new things, exemplified by Bill Gates' story, and 2) Technology widens children's knowledge by providing access to diverse cultural perspectives. Both claims are well-articulated and directly support the thesis that technology enhances creativity.",
+        "score": 2
+    },
+    "Evidence and Reasoning for supporting claims": {
+        "Reason": "The claims are logically coherent with the thesis and are supported by reasoning that aligns with the overarching argument. While the first claim is supported by an anecdotal evidence, the reasoning for the second claim only includes generic statements. More empirical data or detailed studies would strengthen these claims significantly. Thus, a score of 2 and 1 would be assigned to the reasoning of the two claims respectively, resulting in an average score of 1.5.",
+        "score": 1.5
+    },
+    "Claims attacking author's standpoint": {
+        "Reason": "Two clear counterarguments are presented: 1) Technology has made children less creative, and 2) Technology has made life too easy, potentially leading children to be complacent. Both of these claims directly challenge the thesis and are distinctly articulated, fitting the criteria for a score of 2.",
+        "score": 2
+    },
+    "Rebuttal for attacking claim": {
+        "Reason": "The essay provides strong rebuttals to the counterarguments. The author argues that despite the ease provided by technology, it motivates young people to engage with innovations and ultimately enhances creativity. This response effectively counters the idea that technology simply makes life too easy and diminishes creativity, reinforcing the thesis. However, the rebuttal offered for the claim that technology makes life easier and children complacent is somewhat generic and lacks depth. Thus, the averaged score is 1.5.",
+        "score": 1.5
+    },
+    "Quality of Conclusion": {
+        "Reason": "The essay does not feature a distinct conclusion that summarizes the arguments or restates the thesis. It ends abruptly after discussing various aspects of technology's impact on children's creativity without a clear wrap-up or a conclusive statement that reinforces the thesis. This omission fails to provide closure or a final synthesis of the points discussed, which is essential for a strong conclusion.",
+        "score": 0
+    }
+}

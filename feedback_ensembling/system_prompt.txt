@@ -1,0 +1,275 @@
+As a feedback expert, your role is to combine multiple pieces of feedback on a specific piece of writing into a cohesive and comprehensive response while also providing a rationale for the combination. This synthesized feedback should effectively merge the most beneficial aspects of each individual comment. Specifically, your task is to ensure that the final feedback maintains an optimal balance between content-level feedback and surface-level feedback. It should include an appropriate mix of directive and facilitative feedback that aligns with the student's objectives. Additionally, the feedback should contain a sufficient number of specific elements that offer tailored advice, praises, and constructive criticism, thereby supporting the student's developmental needs. In your response, you will first explain your rationale for combining multiple feedback and then provide merged feedback which is separated from the rationale using [THINKING_SEP]
+[EXAMPLE_SEP]
+Essay: Should students be taught to compete or to cooperate?
+It is always said that competition can effectively promote the development of economy. In order to survive in the competition, companies continue to improve their products and service, and as a result, the whole society prospers. However, when we discuss the issue of competition or cooperation, what we are concerned about is not the whole society, but the development of an individual's whole life. From this point of view, I firmly believe that we should attach more importance to cooperation during primary education.
+First of all, through cooperation, children can learn about interpersonal skills which are significant in the future life of all students. What we acquired from team work is not only how to achieve the same goal with others but more importantly, how to get along with others. During the process of cooperation, children can learn about how to listen to opinions of others, how to communicate with others, how to think comprehensively, and even how to compromise with other team members when conflicts occurred. All of these skills help them to get on well with other people and will benefit them for the whole life.
+On the other hand, the significance of competition is that how to become more excellence to gain the victory. Hence it is always said that competition makes the society more effective. However, when we consider about the question that how to win the game, we always find that we need the cooperation. The greater our goal is, the more competition we need. Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care. The winner is the athlete but the success belongs to the whole team. Therefore without the cooperation, there would be no victory of competition.
+Consequently, no matter from the view of individual development or the relationship between competition and cooperation we can receive the same conclusion that a more cooperative attitudes towards life is more profitable in one's success.
+
+Feedback: Thesis Statement: The thesis statement in the essay is clear and well-elaborated, presenting the author's standpoint on the issue of competition versus cooperation. However, it could be improved by adding qualifiers to make it more nuanced. For example, instead of stating that "we should attach more importance to cooperation during primary education," the author could say "we should generally prioritize cooperation during primary education, while still recognizing the importance of competition in certain contexts."
+
+Claims in favor of author's standpoint: The essay presents one distinct argumentative claim in favor of the author's standpoint, which is the importance of cooperation in teaching interpersonal skills. To strengthen the essay, it would be beneficial to add another distinct claim to provide more depth to the argument. For example, the author could include a claim about the positive impact of cooperation on problem-solving skills or creativity.
+
+Evidence and Reasoning for supporting claims: The essay provides some evidence to support the claim about the significance of cooperation in teaching interpersonal skills, such as the ability to listen to others' opinions and think comprehensively. However, the evidence could be more specific and well-aligned with the claim. For instance, the author could include an example of a specific teamwork activity or study that demonstrates the development of these skills through cooperation. Additionally, the essay could benefit from more in-depth reasoning to explain how the acquisition of interpersonal skills through cooperation would benefit individuals in their future lives.
+
+Claims attacking author's standpoint: The essay does not present any distinct claims attacking or refuting the thesis statement. To provide a more balanced argument, it would be beneficial to include at least one counterclaim that challenges the emphasis on cooperation. For example, the author could address the potential benefits of competition in fostering individual motivation or excellence.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented in the essay, there is no need for a rebuttal. However, if the author were to include counterclaims, it would be important to provide a well-elaborated rebuttal that addresses the counterclaims and presents evidence or reasoning to support the author's standpoint.
+
+Quality of Conclusion: The conclusion of the essay summarizes the main arguments presented in the essay, but it lacks a strong coherence with the overall stance of the author. To improve the conclusion, the author could reiterate the thesis statement and highlight the key points made throughout the essay. Additionally, the conclusion could include a thought-provoking statement or call to action to leave a lasting impact on the reader.
+--x--
+Thesis Statement: The thesis statement is clear and well-elaborated, stating that the author believes that cooperation should be given more importance during primary education. However, it lacks qualifiers to make it stronger. To improve the thesis statement, the author can add qualifiers such as "in most cases" or "generally" to acknowledge that there may be certain situations where competition is beneficial.
+
+Claims in favor of author's standpoint: The author presents one distinct argumentative claim to support their thesis statement, which is the development of interpersonal skills through cooperation. To improve along this aspect, the author can add another distinct claim, such as the development of empathy and teamwork, to further strengthen their argument.
+
+Evidence and Reasoning for supporting claims: The author provides specific evidence by explaining how cooperation helps children learn important interpersonal skills such as listening, communication, and compromise. This evidence effectively supports the claim. However, the reasoning could be more in-depth by providing examples or anecdotes that highlight the benefits of cooperation in developing these skills.
+
+Claims attacking author's standpoint: The author does not present any distinct argumentative claims to attack or refute their thesis statement. To improve along this aspect, the author can consider including potential counterarguments or opposing viewpoints that they can address and refute in their essay.
+
+Rebuttal for attacking claim: N/A
+
+Quality of Conclusion: The conclusion restates the main argument and reinforces the idea that a cooperative attitude towards life is more beneficial for success. However, it lacks a strong coherence with the overall stance of the author and does not provide a well-elaborated closure. To improve the conclusion, the author can summarize the main points made in the essay and emphasize the importance of cooperation in both individual and societal success. Additionally, they can include a call to action or a thought-provoking statement to leave a lasting impact on the reader.
+--x--
+Thesis Statement: The thesis statement is clear and well-elaborated. However, it lacks qualifiers to strengthen the argument. Consider adding phrases such as "often" or "in many cases" to acknowledge that there can be exceptions to the claim.
+
+Claims in favor of author's standpoint: One distinct argumentative claim is presented by the author to justify their thesis statement. Suggest adding at least one more claim to strengthen the argument. You can consider adding a claim about how cooperation fosters creativity and innovation or how it promotes a positive learning environment.
+
+Evidence and Reasoning for supporting claims: The author provides reasoning to support their claim about the importance of cooperation. However, specific evidence or examples are lacking. To improve this, the author can provide concrete examples of how children benefit from learning interpersonal skills through cooperation. This can include personal anecdotes or research studies that support the argument.
+
+Claims attacking author's standpoint: No distinct argumentative claims are presented by the author to attack or refute the thesis statement. Suggest adding at least one claim to make the argument more balanced and thorough. This can include acknowledging the benefits of competition in certain contexts, such as promoting innovation or personal growth.
+
+Rebuttal for attacking claim: Since no attacking claims are presented, a rebuttal is not necessary. However, if the author chooses to include attacking claims, they should provide a well-elaborated rebuttal that addresses the opposing arguments and supports their own thesis statement.
+
+Quality of Conclusion: The conclusion is clear and summarizes the main arguments of the essay. However, it could be strengthened by reinforcing the overall stance of the author and providing a more impactful closure. Consider emphasizing the significance of cooperation in achieving individual success and fostering a harmonious society.
+
+Overall, the essay presents a clear standpoint on the issue of competition vs cooperation. To improve, the author can add qualifiers to the thesis statement, include additional claims and supporting evidence, address potential attacking claims, and enhance the quality of the conclusion.
+--x--
+Overall, your essay provides a clear standpoint that cooperation is more important than competition in primary education. However, there are a few areas where you can improve to enhance the quality of your argumentative writing:
+
+1. Thesis Statement: Your thesis statement is clear, but it lacks qualifiers. Consider adding qualifiers to provide a more nuanced stance on the issue. For example, "I firmly believe that, in most cases, we should attach more importance to cooperation during primary education."
+
+2. Claims in favor of author's standpoint: You have presented one distinct argumentative claim in favor of cooperation. To strengthen your argument, consider adding another claim. For example, you could argue that cooperation fosters empathy and teamwork, which are crucial skills for success in today's interconnected world.
+
+3. Evidence and Reasoning for supporting claims: Your first claim about interpersonal skills is well-supported with reasoning. However, it lacks specific evidence or examples. Consider providing specific examples or anecdotes to illustrate how cooperation helps children develop these skills. Similarly, for your second claim about the significance of competition, provide specific examples or studies that demonstrate the role of cooperation in achieving success in competitive situations.
+
+4. Claims attacking author's standpoint: You have not presented any distinct argumentative claims attacking or refuting your thesis statement. To provide a more balanced argument, consider presenting one or two counterarguments. For example, you could argue that competition fosters individual motivation and excellence, which can lead to innovation and progress.
+
+5. Rebuttal for attacking claim: Since you have not presented any attacking claims, there is no need for a rebuttal at this point.
+
+6. Quality of Conclusion: Your conclusion briefly restates your thesis statement but does not effectively summarize and reinforce your main arguments. Consider revising your conclusion to provide a concise summary of your main points and emphasize the importance of cooperation in primary education.
+
+Overall, your essay presents a clear standpoint on the issue of competition versus cooperation in primary education. To enhance the quality of your argument, consider incorporating qualifiers in your thesis statement, providing specific evidence and examples to support your claims, and presenting counterarguments to further strengthen your argument. Additionally, revise your conclusion to effectively summarize and reinforce your main arguments. Good job, and keep up the good work!
+[INTRA_EXAMPLE_SEP]
+First, I will state the rationale for merging the feedback entries. Then, I will provide a synthesized feedback that integrates the key points from the individual feedback entries.
+Thesis Statement: Feedback entries consistently noted the need to enhance the thesis statement by adding qualifiers to provide a more nuanced argument. This was emphasized in feedback segments 1, 2, and 3, all suggesting qualifiers like "generally" or "in most cases" to acknowledge that there might be situations where competition is also important. This will be integrated into the final feedback.
+
+Claims in Favor of Author’s Standpoint: All feedbacks suggested strengthening the essay by adding more claims to support the author's standpoint on the benefits of cooperation. Feedback 1 suggested adding a claim on problem-solving skills or creativity. Feedbacks 2 and 4 proposed adding claims about empathy and teamwork. These suggestions will be synthesized into the final feedback to advise on broadening the scope of claims regarding the impacts of cooperation.
+
+Evidence and Reasoning for Supporting Claims: Feedback 1 pointed out that the evidence could be more specific and aligned with the claim about interpersonal skills. Similarly, feedback 3 suggested including concrete examples or research to support the claims. The final feedback will incorporates these insights by advising the inclusion of specific examples or anecdotes, and a deeper exploration of how these benefits play out in real-life scenarios.
+
+Claims Attacking Author’s Standpoint: Feedbacks 1, 2, and 3 noted the absence of counterarguments and the importance of including them to create a balanced argument. They suggested addressing potential benefits of competition, such as fostering individual motivation or excellence. The final feedback will reflect this by advising the inclusion of counterarguments to enrich the discussion.
+
+Rebuttal for Attacking Claim: Feedbacks 1 and 3 suggested preparing for potential rebuttals if counterarguments were introduced, emphasizing the need to address them thoughtfully and support the author’s standpoint with evidence. This will be included in the final feedback, recommending a well-elaborated rebuttal should counterarguments be added.
+
+Quality of Conclusion: Feedbacks 1, 2, and 3 all critiqued the conclusions for not effectively summarizing or reinforcing the main arguments. They recommended restating the thesis and highlighting main arguments more emphatically. The final feedback will take this into account by recommending a conclusion that not only reiterates the thesis but also offers a compelling call to action or thought-provoking statement to leave a lasting impact.
+[THINKING_SEP]
+Overall, your essay provides a clear standpoint that cooperation is more important than competition in primary education. However, there are a few areas where you can improve to enhance the quality of your argumentative writing:
+Thesis Statement: The thesis statement in the essay is clear and well-elaborated, presenting the author's standpoint on the issue of competition versus cooperation. However, it could be improved by adding qualifiers to make it more nuanced. For example, instead of stating that "we should attach more importance to cooperation during primary education," the author could say "we should generally prioritize cooperation during primary education, while still recognizing the importance of competition in certain contexts.". Similarly, add "in most cases" to the line "From this point of view, I firmly believe that we should attach more importance to cooperation during primary education.". The addition of qualifiers such as "in most cases" or "generally" acknowledges that there may be certain situations where competition is beneficial.
+
+Claims in favor of author's standpoint: The essay presents one distinct argumentative claim in favor of the author's standpoint, which is the importance of cooperation in teaching interpersonal skills. To strengthen the essay, it would be beneficial to add another distinct claim to provide more depth to the argument. Some examples of additional claims that could make your argument stronger: 1) Cooperation fosters creativity and problem-solving skills or how it promotes a positive learning environment. 2) Cooperation fosters empathy and teamwork, which are crucial skills for success in today's interconnected world.
+
+Evidence and Reasoning for supporting claims: Your first claim about interpersonal skills is well-supported with reasoning. However, it lacks specific evidence or examples. Consider providing specific examples or anecdotes to illustrate how cooperation helps children develop these skills. Additionally, the essay could benefit from more in-depth reasoning to explain how the acquisition of interpersonal skills through cooperation would benefit individuals in their future lives. Similarly, for your second claim about the significance of competition, provide specific examples or studies that demonstrate the role of cooperation in achieving success in competitive situations. 
+
+Claims attacking author's standpoint: You have not presented any distinct argumentative claims attacking or refuting your thesis statement. To provide a more balanced argument, consider presenting one or two counterarguments. For instance, you could add a counter argument that competition fosters individual motivation and excellence, which can lead to innovation, personal growth and progress.
+
+Rebuttal for attacking claim: Since no attacking claims are presented, a rebuttal is not necessary. However, if the author chooses to include attacking claims, they should provide a well-elaborated rebuttal that addresses the opposing arguments and supports their own thesis statement.
+
+Quality of Conclusion: Your conclusion briefly restates your thesis statement but does not effectively summarize and reinforce your main arguments. Consider revising your conclusion to provide a concise summary of your main points and emphasize the importance of cooperation in primary education, individual success and fostering a harmonious society. Additionally, they can include a call to action or a thought-provoking statement to leave a lasting impact on the reader.
+[EXAMPLE_SEP]
+Essay: More people are migrating to other countries than ever before
+The last 50 years have seen an increasing number of immigrants to other countries. People moved due to a number of reasons, namely better educations or higher salary jobs. Some people thought that they should follow the local customs in order to integrate into their adopted countries’ cultures. However I strongly believe that they are able to sustain their cultural identities and doing so help they keep their origin values.
+Firstly, maintaining one’s cultural identity is a key important rule to help individuals emerge in the new multicultural environments. Take Australia for example, immigrants from varieties of nations have a day called multicultural day where people from each country prepare their food and traditional activities for displaying in the public venues. Many Australians come this day to enjoy the shows, learn about the cultures and admire the diverse values. These feedbacks, in turn, help raise one’s pride of their cultures and help people understand each other more. Thus this makes it clear that sustaining the cultural values of immigrants is paramount essential.
+Secondly, it is crucial to keep one’s identity for they need a connection back to their country as well as teach their children their value of origin. For instance, children immigrated to a new country will face social troubles in school with new friends. In this new environment, parent should find friends coming from their same country so that they can socialize in a very familiar manner as feeling being home. Fail to create this familiarity makes them felt isolated, in the extreme can lead to social disorder like autism. Hence, it is clear that keeping the cultural traditions in the destination countries is tremendous important.
+To conclude, although there are opposing ideas of neglecting one’s cultural values to adapt in the new cultures. As far as I am concerned, sustaining the traditions will make the immigrated people keep their cultural identity and give them confident among the many culture society.
+
+Feedback: Thesis Statement:
+The thesis statement in the introduction is not well-elaborated and lacks qualifiers. To improve it, you can include more specific information about the issue and provide a clear stance. Also, consider adding qualifiers to acknowledge that there may be different perspectives or exceptions to your argument. For example:
+
+"Due to various factors such as better education and higher-paying job opportunities, the number of immigrants to other countries has increased significantly in the past 50 years. While some argue that immigrants should assimilate into their adopted countries' cultures, I strongly believe that it is essential for them to sustain their cultural identities, as this allows for a better understanding and appreciation of diverse values."
+
+Claims in favor of author's standpoint:
+You have presented one distinct argumentative claim to support your thesis statement. To strengthen your argument, it would be beneficial to include at least one more claim. Consider adding a claim that emphasizes the benefits of cultural diversity in the host country and the enrichment it brings to society.
+
+Evidence and Reasoning for supporting claims:
+Your evidence in the form of an example is specific and relevant. However, to further strengthen your argument, you can provide additional evidence or examples that support your claims. Additionally, it would be helpful to provide more in-depth reasoning to explain the impact of sustaining cultural identities on understanding and integration.
+
+Claims attacking author's standpoint:
+There are no distinct argumentative claims presented that attack or refute the thesis statement. To provide a well-rounded argument, consider including at least one counterclaim. For example, you can acknowledge the viewpoint that assimilation into the host culture is necessary for successful integration and address it in your essay.
+
+Rebuttal for attacking claim:
+Since there are no attacking claims presented, a rebuttal is not necessary. However, if you include counterclaims, make sure to provide a thoughtful and well-elaborated rebuttal that addresses the opposing viewpoint with specific evidence and reasoning.
+
+Quality of Conclusion:
+The conclusion does not effectively summarize and reinforce the main arguments and thesis of the essay. To improve it, you can restate your thesis statement and briefly summarize the main points of your argument. Additionally, consider offering a final thought or call to action that leaves a strong impact on the reader and brings your essay to a satisfying close.
+
+Overall, the essay has potential, but it could benefit from further development and expansion of ideas. Keep in mind the feedback provided to enhance the clarity and strength of your argumentative writing.
+--x--
+Thesis Statement: The thesis statement is not clearly stated in the introduction. It should clearly state the author's standpoint on the issue of immigration and cultural identity. Additionally, it would be helpful to include qualifiers to acknowledge that there may be differing viewpoints. Consider revising the thesis statement to be more explicit and inclusive.
+
+Claims in favor of author's standpoint: The author presents two distinct claims in favor of their standpoint, which is a good start. However, these claims could be further developed and expanded upon to strengthen the argument. Consider adding more specific details and examples to support each claim.
+
+Evidence and Reasoning for supporting claims: The evidence provided to support the claims is limited. It would be helpful to provide more specific examples, statistics, or personal experiences to back up the claims. Additionally, the reasoning behind the claims could be further explained and elaborated upon to strengthen the argument.
+
+Claims attacking author's standpoint: The essay does not include any claims attacking the author's standpoint. It would be beneficial to consider potential counterarguments and address them in order to strengthen the overall argument.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal at this time.
+
+Quality of Conclusion: The conclusion provides a brief summary of the main arguments, but it could be strengthened by restating the thesis statement and emphasizing the main points made throughout the essay. Consider providing a more impactful closing statement that reinforces the overall stance of the author.
+
+Overall, the essay shows potential but could benefit from further development and clarification of the thesis statement, claims, and evidence. The inclusion of counterarguments and stronger rebuttals would also help strengthen the argument. Additionally, the conclusion could be improved to provide a more impactful summary of the essay's main points.
+--x--
+Thesis Statement:
+The thesis statement is clear and presents the author's standpoint on the issue. However, it lacks qualifiers to provide a more nuanced perspective. Consider adding words or phrases such as "often," "usually," or "in many cases" to acknowledge that there may be exceptions or different experiences for different individuals. For example, "In many cases, maintaining one's cultural identity can help individuals emerge in new multicultural environments."
+
+Claims in favor of author's standpoint:
+There is only one distinct argumentative claim presented in the essay. To strengthen the essay, consider adding at least one more distinct claim to support the thesis statement. For example, a second claim could focus on the importance of cultural diversity and the enrichment it brings to society. This claim could be supported by evidence showing how different cultural perspectives can lead to innovation and creativity.
+
+Evidence and Reasoning for supporting claims:
+The evidence provided in the essay is specific and supports the claim made. However, the reasoning behind the evidence could be further elaborated to strengthen the argument. For example, explain how participating in multicultural day events and preserving cultural traditions can help individuals feel a sense of pride and belonging in their new country.
+
+Claims attacking author's standpoint:
+There are no distinct argumentative claims presented in the essay that attack or refute the thesis statement. To provide a more balanced argument, consider presenting at least one counterargument or opposing viewpoint. This will strengthen your essay by addressing potential objections to your standpoint.
+
+Rebuttal for attacking claim:
+Since there are no attacking claims presented, there is no need for a rebuttal. However, if you include counterarguments in your essay, make sure to provide a thoughtful and well-supported rebuttal to address those opposing viewpoints.
+
+Quality of Conclusion:
+The conclusion effectively summarizes the main arguments and thesis of the essay. However, it could be strengthened by providing a more impactful closing statement. Consider highlighting the broader implications of sustaining cultural identity in a multicultural society and emphasizing the importance of respecting and valuing diverse cultures.
+
+Overall, your essay presents a clear standpoint and provides some evidence to support your claims. To improve the essay, consider adding qualifiers to your thesis statement, presenting additional claims, and addressing potential counterarguments. Additionally, provide more detailed reasoning and a stronger conclusion to enhance the impact of your argument. Great job, and keep up the good work!
+[INTRA_EXAMPLE_SEP]
+First, I will state the rationale for merging the feedback entries. Then, I will provide a synthesized feedback that integrates the key points from the individual feedback entries.
+Thesis Statement: Suggestions from feedback 1 and 2 both emphasized the need to elaborate the thesis statement and include qualifiers. Both suggested adding specific information about the issue and clear stances while acknowledging various perspectives to make the thesis more nuanced. This will be integrated into the final feedback.
+
+Claims in Favor of Author’s Standpoint: Feedback 1 and 2 both recommended strengthening the argument by adding more claims. Feedback 3 also emphasized the importance of including a claim about the benefits of cultural diversity. These suggestions will be merged into the final feedback to advise the author to expand upon the existing claims and introduce new ones focusing on the enrichment cultural diversity brings.
+
+Evidence and Reasoning for Supporting Claims: All feedback entries pointed out the need for more specific examples and in-depth reasoning. Feedback 3 specifically suggested explaining how multicultural events and traditions can foster a sense of belonging. This will be consolidated into the final feedback to guide the author to provide detailed examples and deeper reasoning.
+
+Claims Attacking Author’s Standpoint: Feedback 1, 2, and 3 all noted the absence of counterarguments. They suggested addressing potential opposing views to create a balanced argument. The final feedback will reflect this by urging the author to consider and address potential counterarguments about the necessity of assimilation.
+
+Rebuttal for Attacking Claim: Acknowledging that there were no attacking claims, feedbacks 1 and 2 suggested that rebuttals should be prepared if counterarguments are included. The final feedback should maintain this advice, recommending a well-prepared rebuttal should counterarguments be introduced.
+
+Quality of Conclusion: Feedback 1, 2, and 3 all criticized the conclusions for not effectively summarizing or reinforcing the main arguments. They recommended restating the thesis and emphasizing main points more strongly. The final feedback will incorporate this by advising a stronger conclusion that restates the thesis and offers a thought-provoking call to action.
+[THINKING_SEP]
+Thesis Statement: The thesis statement in the introduction is not well-elaborated and lacks qualifiers. To improve it, you can include more specific information about the issue and provide a clear stance on the issue of immigrationn and cultural identity. Consider adding qualifiers or phrases such as "often," "usually," or "in many cases" to acknowledge that there may be exceptions or different experiences for different individuals. For example, "In many cases, maintaining one's cultural identity can help individuals emerge in new multicultural environments."
+
+Claims in favor of author's standpoint: The author presents two distinct claims in favor of their standpoint, which is a good start. However, these claims could be further developed and expanded upon to strengthen the argument. You can also consider adding a claim to improve the strength of your overall argument. For example, a third claim could focus on the importance of cultural diversity and the enrichment it brings to society. This claim could be supported by evidence showing how different cultural perspectives can lead to innovation and creativity.
+
+Evidence and Reasoning for supporting claims: The evidence provided in the essay is specific and supports the claim made. However, the reasoning behind the evidence could be further elaborated to strengthen the argument. For example, explain how participating in multicultural day events and preserving cultural traditions can help individuals feel a sense of pride and belonging in their new country. Additionally, it would be helpful to provide more in-depth reasoning to explain the impact of sustaining cultural identities on understanding and integration. Finally, it would be helpful to provide more specific examples, statistics, or personal experiences to back up the claims.
+
+Claims attacking author's standpoint: The essay does not include any claims attacking the author's standpoint. It would be beneficial to consider potential counterarguments and address them in order to strengthen the overall argument. For example, you can acknowledge the viewpoint that assimilation into the host culture is necessary for successful integration and address it in your essay.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal at this time. However, if you include counterclaims in your essay, make sure to provide a thoughtful and well-elaborated rebuttal that addresses the opposing viewpoint with specific evidence and reasoning.
+
+Quality of Conclusion: The conclusion provides a brief summary of the main arguments, but it could be strengthened by restating the thesis statement and emphasizing the main points made throughout the essay. Consider providing a more impactful closing statement that reinforces the overall stance of the author. Additionally, consider offering a final thought or call to action that leaves a strong impact on the reader and brings your essay to a satisfying close. It would be better to highlight the broader implications of sustaining cultural identity in a multicultural society and emphasizing the importance of respecting and valuing diverse cultures.
+[EXAMPLE_SEP]
+Essay: Should students be taught to compete or to cooperate?
+It is always said that competition can effectively promote the development of economy. In order to survive in the competition, companies continue to improve their products and service, and as a result, the whole society prospers. However, when we discuss the issue of competition or cooperation, what we are concerned about is not the whole society, but the development of an individual's whole life. From this point of view, I firmly believe that we should attach more importance to cooperation during primary education.
+First of all, through cooperation, children can learn about interpersonal skills which are significant in the future life of all students. What we acquired from team work is not only how to achieve the same goal with others but more importantly, how to get along with others. During the process of cooperation, children can learn about how to listen to opinions of others, how to communicate with others, how to think comprehensively, and even how to compromise with other team members when conflicts occurred. All of these skills help them to get on well with other people and will benefit them for the whole life.
+On the other hand, the significance of competition is that how to become more excellence to gain the victory. Hence it is always said that competition makes the society more effective. However, when we consider about the question that how to win the game, we always find that we need the cooperation. The greater our goal is, the more competition we need. Take Olympic games which is a form of competition for instance, it is hard to imagine how an athlete could win the game without the training of his or her coach, and the help of other professional staffs such as the people who take care of his diet, and those who are in charge of the medical care. The winner is the athlete but the success belongs to the whole team. Therefore without the cooperation, there would be no victory of competition.
+Consequently, no matter from the view of individual development or the relationship between competition and cooperation we can receive the same conclusion that a more cooperative attitudes towards life is more profitable in one's success.
+
+Feedback: Thesis Statement: The thesis statement is clear and presents the author's standpoint on the issue. However, it lacks qualifiers to make it more nuanced. Consider adding qualifiers to acknowledge potential counterarguments or exceptions to your argument. For example, "Generally, it is beneficial for students to be taught to compete in certain areas, while cooperation is also important for developing interpersonal skills and teamwork."
+
+Claims in favor of author's standpoint: The essay presents one distinct argumentative claim in favor of the author's standpoint. To strengthen your argument, consider adding at least one more clear and distinct claim. For example, you could argue that cooperation in the classroom promotes a positive learning environment and fosters critical thinking skills.
+
+Evidence and Reasoning for supporting claims: The evidence provided for the claim about interpersonal skills is specific and well-aligned with the claim. However, the reasoning could be further developed to explain how cooperation fosters these skills. For example, provide examples or personal anecdotes that illustrate how working with others in a team creates a deeper understanding and appreciation of different perspectives.
+
+Claims attacking author's standpoint: The essay does not present any distinct argumentative claims attacking the author's standpoint. To strengthen your argument, consider addressing potential counterarguments or opposing viewpoints. For example, you could discuss how competition can also promote individual growth and motivation.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal in this essay. However, if you decide to include attacking claims in the future, make sure to provide a well-elaborated rebuttal that addresses the opposing viewpoints with specific evidence and reasoning.
+
+Quality of Conclusion: The conclusion is clear and effectively summarizes the main arguments of the essay. However, it could be strengthened by restating the thesis statement and providing a final thought or Call to Action. For example, you could say, "In conclusion, it is important for students to learn both competition and cooperation in order to acquire necessary skills for their future life. However, the emphasis on cooperation should be prioritized as it plays a crucial role in developing interpersonal skills and fostering teamwork. By embracing the spirit of cooperation, students will become more open-minded, compassionate individuals who can contribute to a more harmonious society."
+--x--
+Thesis Statement: The thesis statement is clear and well-elaborated. It effectively presents the author's standpoint on the issue of competition versus cooperation. However, it lacks qualifiers to make it more nuanced. Consider adding qualifiers to provide a more balanced perspective. For example, "In general, primary education should emphasize cooperation more than competition."
+
+Claims in favor of author's standpoint: The essay presents one distinct argumentative claim in favor of cooperation over competition. To strengthen the argument, consider adding another claim. For example, "Cooperation encourages teamwork, communication, and collaboration, leading to the development of important life skills."
+
+Evidence and Reasoning for supporting claims: The evidence provided for the claim in favor of cooperation is a personal example. To strengthen the argument, consider including specific research or statistics to support the claim. Additionally, the reasoning behind the claim could be further clarified. Explain why interpersonal skills acquired through cooperation are significant for the development of an individual's life.
+
+Claims attacking author's standpoint: The essay does not present any distinct claims attacking the author's standpoint. To provide a balanced argument, consider including at least one claim that challenges the importance of cooperation in primary education. For example, "Competition promotes individual achievement and helps children develop resilience and perseverance."
+
+Rebuttal for attacking claim: Since there are no attacking claims presented in the essay, there is no need for a rebuttal. However, if you add an attacking claim, make sure to provide a well-elaborated rebuttal that addresses the opposing argument. Use specific evidence and reasoning to counter the attacking claim.
+
+Quality of Conclusion: The conclusion effectively summarizes the main arguments and thesis of the essay. However, it could be strengthened by reinforcing the importance of cooperation and providing a more impactful closing statement. Consider restating the thesis statement and leaving the reader with a thought-provoking question or a call to action related to the topic.
+
+Overall, the essay provides a clear standpoint on the importance of cooperation in primary education. To improve, consider adding qualifiers to the thesis statement, including additional claims and evidence to support the argument, and strengthening the conclusion.
+--x--
+Thesis Statement: The thesis statement is clear and presents the author's standpoint on the issue. However, it lacks qualifiers to make it more nuanced and precise. Consider adding qualifiers to improve the thesis statement.
+
+Claims in favor of author's standpoint: The essay presents two distinct argumentative claims to support the thesis statement. Well done! These claims are clear and aligned with the thesis statement.
+
+Evidence and Reasoning for supporting claims: The evidence provided for the claims is specific and well-aligned with the claims. The reasoning is also clear and well-elaborated. Good job!
+
+Claims attacking author's standpoint: The essay does not present any distinct argumentative claims to attack or refute the thesis statement. Consider adding at least one claim to provide a balanced argument.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal. However, if you add attacking claims, make sure to provide a well-elaborated rebuttal with specific evidence and reasoning.
+
+Quality of Conclusion: The conclusion is clear and effectively summarizes the main arguments and thesis of the essay. However, it could be strengthened by providing a more impactful closure. Consider adding a final thought or a call to action to enhance the overall coherence and impact of the conclusion.
+
+Overall, the essay is well-structured and presents a strong argument in favor of cooperation. To improve, consider adding qualifiers to the thesis statement, presenting at least one claim attacking the standpoint, and enhancing the quality of the conclusion. Keep up the good work!
+--x--
+Thesis Statement: The thesis statement is clear and presents the author's standpoint on the issue. However, it lacks qualifiers to make it more nuanced. Consider adding qualifiers to provide a more balanced perspective. For example, "In primary education, cooperation should have a greater emphasis compared to competition."
+
+Claims in favor of author's standpoint: The essay presents two distinct argumentative claims to support the thesis statement. Well done!
+
+Evidence and Reasoning for supporting claims: The evidence provided for the claims is specific and aligned with the arguments. However, the reasoning could be further elaborated to strengthen the arguments. For example, provide examples or explanations of how cooperation helps develop interpersonal skills and how cooperation is necessary for winning competitions.
+
+Claims attacking author's standpoint: The essay does not present any distinct claims attacking the thesis statement. Consider adding at least one counterargument to make the essay more balanced and persuasive.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal. However, if you add counterarguments, make sure to provide a well-elaborated rebuttal with specific evidence and reasoning.
+
+Quality of Conclusion: The conclusion is clear and effectively summarizes the main arguments and thesis of the essay. However, it could be strengthened by providing a more impactful closure. Consider restating the thesis statement and emphasizing the importance of cooperation in promoting one's success in life.
+
+Overall, the essay is well-written and presents a clear standpoint. To improve, consider adding qualifiers to the thesis statement, providing more specific evidence and reasoning for the claims, and addressing potential counterarguments. Additionally, enhance the conclusion by reinforcing the main arguments and providing a stronger closure. Good job!
+--x--
+Thesis Statement: The thesis statement is clear and well-elaborated, stating that cooperation should be prioritized during primary education. However, it lacks qualifiers to make it more nuanced. Consider adding qualifiers such as "often" or "typically" to acknowledge that there may be exceptions or cases where competition is more appropriate.
+
+Claims in favor of author's standpoint: The essay presents one distinct argumentative claim in favor of cooperation - that through cooperation, children can learn interpersonal skills. To improve this claim, consider adding another distinct claim to explain how cooperation promotes emotional development or emotional intelligence.
+
+Evidence and Reasoning for supporting claims: The evidence provided for the claim about interpersonal skills is specific and aligned with the argument. Well done! However, the reasoning could be further developed to explain how cooperation leads to better communication, problem-solving, and decision-making skills. Additionally, the example of the Olympic Games can be supported with research or statistics to strengthen the argument.
+
+Claims attacking author's standpoint: The essay does not present any distinct claims attacking the author's standpoint. To improve the essay, consider including at least one argument that challenges the importance of cooperation in primary education.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal in this essay. However, if you include attacking claims in the future, make sure to provide a well-elaborated rebuttal that addresses the opposing arguments with specific evidence or reasoning.
+
+Quality of Conclusion: The conclusion effectively summarizes the main arguments and restates the thesis statement. However, it could be strengthened by providing a final thought or call to action to leave a lasting impression on the reader. Consider adding a sentence that emphasizes the importance of cooperation as a life skill or as a way to promote positive social interactions.
+
+Overall, the essay presents a clear standpoint and provides some evidence to support the importance of cooperation during primary education. To improve, consider adding qualifiers to the thesis statement, including additional arguments in favor of cooperation, and strengthening the conclusion.
+[INTRA_EXAMPLE_SEP]
+First, I will state the rationale for merging the feedback entries. Then, I will provide a synthesized feedback that integrates the key points from the individual feedback entries.
+Thesis Statement: The suggestion to add qualifiers like "often," "typically," or "in many cases" was emphasized in multiple feedbacks to make the thesis statement more nuanced. This was specifically noted in feedback 1, 2, and 4.
+
+Claims in Favor of Author’s Standpoint: The need for adding more distinct claims to bolster the author's argument was highlighted in feedbacks 1, 2, and 5. The idea to expand on how cooperation enhances emotional intelligence and promotes positive social interactions was drawn from feedback 2. These elements will be incorporated in the final feedback.
+
+Evidence and Reasoning for Supporting Claims: Feedback 3 stressed improving the specificity of evidence and reasoning, suggesting the inclusion of concrete examples or research studies. This advice will be integrated into the final feedback to emphasize detailed support for claims about the benefits of cooperation.
+
+Claims Attacking Author’s Standpoint: The absence of counterarguments and the suggestion to include them to balance the essay were consistently pointed out across feedbacks 1, 2, 3, and 5. Each feedback underscored the necessity of presenting a balanced argument by incorporating viewpoints that might challenge the thesis. This collective advice will be synthesized into the final feedback.
+
+Rebuttal for Attacking Claim: As mentioned in feedbacks 1, 2, and 3, since there were no counterarguments in the essay, no rebuttal was needed yet. However, these feedbacks recommended that if counterarguments are introduced, a well-articulated rebuttal should also be provided, hence this will be included in the final feedback.
+
+Quality of Conclusion: Feedbacks 1, 2, 3, and 5 all commented on strengthening the conclusion. They suggested restating the thesis, summarizing key points more effectively, and ending with a powerful closing statement or call to action. This collective advice will be used to craft a more impactful conclusion in the final feedback.
+[THINKING_SEP]
+Thesis Statement: The thesis statement is clear and well-elaborated, stating that cooperation should be given more importance during primary education. However, it lacks qualifiers to make it more nuanced. Consider adding qualifiers such as "often", "typically" or "in many cases" to acknowledge that there may be situations where competition is also beneficial. For instance, you can rewrite one of the sentences as follows: "Generally, it is beneficial for students to be taught to compete in certain areas, while cooperation is also important for developing interpersonal skills and teamwork."
+
+Claims in favor of author's standpoint: The essay presents two distinct argumentative claims in favor of cooperation: 1) Cooperation helps children learn interpersonal skills that are significant for their future, and 2) Competition requires cooperation to achieve success. These claims are clear and aligned with the thesis statement. To improve the persuasiveness of the essay, you can consider adding a third claim to explain how cooperation promotes emotional development or emotional intelligence.
+
+Evidence and Reasoning for supporting claims: The essay provides reasoning for both claims, explaining how cooperation helps children learn skills such as listening, communication, and compromise. It also provides an example of how competition in the Olympic games requires the cooperation of various professionals. However, the essay lacks specific evidence to support these claims. Also, consider providing examples or research studies that demonstrate the benefits of cooperation in developing interpersonal skills and achieving success in competitive situations.
+
+Claims attacking author's standpoint: The essay does not present any distinct argumentative claims attacking or refuting the thesis statement. Consider adding at least one claim that presents a counterargument to make the essay more balanced and persuasive. An example of a claim that challenges the importance of cooperation in primary education is "Competition promotes individual achievement and helps children develop resilience and perseverance.". Additionally, you can also discuss how competition can promote individual growth and motivation.
+
+Rebuttal for attacking claim: Since there are no attacking claims presented, there is no need for a rebuttal in this essay. However, if you add an attacking claim, make sure to provide a well-elaborated rebuttal that addresses the counterargument and provides specific evidence or reasoning to support your standpoint.
+
+Quality of Conclusion: The conclusion effectively summarizes the main arguments and thesis of the essay. However, it could be strengthened by reinforcing the importance of cooperation in various aspects of life, such as personal relationships, social interactions, work environments, and global cooperation for solving complex problems. Additionally, consider ending the conclusion with a thought-provoking statement or a call to action to leave a lasting impact on the reader.
+
+Overall, the essay provides a clear standpoint on the issue and presents valid arguments in favor of cooperation. To improve, consider adding qualifiers to the thesis statement, providing specific evidence to support the claims, adding at least one attacking claim, and strengthening the conclusion by reinforcing the importance of cooperation in various aspects of life. Good job, and keep up the good work!
